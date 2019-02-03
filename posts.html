@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Posts
 ---
 
 <div class="posts">
@@ -14,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content|truncate: 500 }}
+    {{ post.content }}
   </div>
   {% endfor %}
 </div>
