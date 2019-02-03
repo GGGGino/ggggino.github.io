@@ -17,7 +17,6 @@ author:
   twitter:        https://twitter.com/GGGGino
 
 paginate:         1
-paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-paginate
