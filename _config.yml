@@ -17,8 +17,5 @@ author:
   twitter:        https://twitter.com/GGGGino
   linkedin:       https://www.linkedin.com/in/david-ginanni-4299985a/
 
-paginate:         5
-paginate_path:    "/post/page:num/"
-
 plugins:
   - jekyll-paginate
