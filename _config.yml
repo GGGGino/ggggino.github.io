@@ -16,7 +16,8 @@ author:
   facebook:       https://www.facebook.com/gino1111
   twitter:        https://twitter.com/GGGGino
 
-paginate:         1
+paginate:         5
+paginate_path:    "/post/page:num/"
 
 plugins:
   - jekyll-paginate
