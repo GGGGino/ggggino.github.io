@@ -1,14 +1,13 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
+markdown:         kramdown
 
 # Setup
 title:            David Ginanni
 tagline:          'Code for work and viceversa'
 description:      'Code for work and viceversa'
 url:              https://github.com/GGGGino
-baseurl:          /
+baseurl: "/"
+url: "" 
 
 author:
   name:           'David Ginanni'
@@ -16,6 +15,3 @@ author:
   facebook:       https://www.facebook.com/gino1111
   twitter:        https://twitter.com/GGGGino
   linkedin:       https://www.linkedin.com/in/david-ginanni-4299985a/
-
-plugins:
-  - jekyll-paginate
