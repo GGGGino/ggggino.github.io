@@ -1,30 +1,44 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Once upon a time there is a fresh student waiting for his dream job...
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I attended the ITC school Marchi specialization in IT and telecommunications. I was not very good at school except for math, English and programming, but I did it. History was my Achilles' heel.
 
-There are currently two themes built on Poole:
+The high school nauseated me with the study so I preferred to not go to the university, but instead I wanted to start working on what I did better... *programming*..
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Started as web developer I was focused on building simple Websites for a Comunication agency in Lucca.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+After some months I understand an important lesson...
 
-## Setup
+> that the more I learned, the more I WANTED to learn and the more I HAVE to learn.
 
-Some fun facts about the setup of this project include:
+So I start to reintroduce myself to the world of Study, and I discovered many way to build a website.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Then I started to develop more sophisticated websites with some kind of technologies such as Drupal, Symfony..
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* _2011_ - Pure [PHP](http://www.php.net/) websites, with jquery for animations and css for styling
+* _2012_ - *Wordpress* :(, [Drupal](https://www.drupal.org/), [SCSS](https://sass-lang.com/)
+* _2013, 2014_ - [Symfony](https://symfony.com/), simple [REST](https://it.wikipedia.org/wiki/Representational_State_Transfer) calls, [Angular](https://angularjs.org/), [Sonata](https://sonata-project.org/)
+
+In the years I always tried to archive new goals with always new technologies, this helped me a lot on having a general view on what/how I was doing.
+
+So in late 2014 I changed company to find some new challenges. I didn't want to be a website builder for the rest of my life, I want to test myself with building **Web apps**.
+
+I was only one year in the new company but there I build some cute things:
+
+* A Js game developed with [Pixi.js](http://www.pixijs.com/) that should represent a sort of [Puzzle bubble](https://it.wikipedia.org/wiki/Puzzle_Bobble)
+* Build modules and themes for Drupal
+* Frontend part of a important company
+
+.
+.
+.
+.
+
 
 Thanks for reading!
