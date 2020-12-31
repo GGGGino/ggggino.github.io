@@ -29,11 +29,11 @@ In the years I always tried to archive new goals with always new technologies, t
 
 So in late 2014 I changed company to find some new challenges. I didn't want to be a website builder for the rest of my life, I want to test myself with building **Web apps**.
 
-I was only one year in the new company but there I build some cute things:
+I have been in the new company for only one year but there I build some cute things:
 
 * A Js game developed with [Pixi.js](http://www.pixijs.com/) that should represent a sort of [Puzzle bubble](https://it.wikipedia.org/wiki/Puzzle_Bobble)
 * Build modules and themes for Drupal
-* Frontend part of a important company
+* Frontend part of a big betting company
 
 .
 .

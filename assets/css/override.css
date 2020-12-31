@@ -4,6 +4,11 @@
 .sidebar-about h1 {
 	font-size: 2.25rem;
 }
+@media (min-width: 58em) {
+  html {
+    font-size: 18px;
+  }
+}
 @media (min-width: 48em) {
 	.sidebar {
 		width: 15rem;
