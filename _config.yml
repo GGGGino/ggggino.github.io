@@ -3,7 +3,7 @@ markdown:         kramdown
 
 # Setup
 title:            David Ginanni
-tagline:          'Code for work and viceversa'
+tagline:          'Full Stack Developer'
 description:      'Code for work and viceversa'
 url:              https://github.com/GGGGino
 baseurl: "/"
