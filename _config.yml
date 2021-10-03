@@ -9,6 +9,11 @@ url:              https://github.com/GGGGino
 baseurl: "/"
 url: "" 
 
+works:
+  - title: 'Splittami'
+    link: 'https://ggggino.github.io/splittami'
+    image: '/assets/images/splittami.png'
+
 author:
   name:           'David Ginanni'
   github:         https://github.com/GGGGino

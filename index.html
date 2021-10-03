@@ -30,6 +30,11 @@ title: Home
     </p>
   </div>
 
+  <h1 class="post-title">Works</h1>
+  {% for work in site.works %}
+    <a target="_BLANK" href="{{ work.link }}"><img src="{{ work.image }}" /></a>
+  {% endfor %}
+
   {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
